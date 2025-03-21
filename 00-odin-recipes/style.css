@@ -1,0 +1,28 @@
+html{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    Background-color: rgb(255, 187, 255);
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+}
+.name{
+    font-size: ;
+    text-align: center;
+}
+.box{
+    width: 35%;
+    height: auto;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 221, 86);
+    box-shadow: 1px 1px 5px 1px;
+    transition: 0.5s;
+    position: relative;
+    left: 30%;
+}
+.home{
+    font-size: ;
+    text-align: center;
+}
